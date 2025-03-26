@@ -1,10 +1,5 @@
 # Tarkvara Testimine
 
-## Ülevaade
-Selles dokumendis kirjeldatakse tarkvara testimise olulisemaid aspekte, sealhulgas testimisplaani koostamist, UI testimise raamistikke ning rahvuslikke ja rahvusvahelisi testimise standardeid.
-
----
-
 ## 1. Süsteemi Test Plaani Koostamine
 Süsteemi test plaan (**STP**) on dokument, mis määratleb testimise ulatuse, eesmärgid, metoodika, ajakava ja ressursid. Selle koostamisel võetakse arvesse:
 
